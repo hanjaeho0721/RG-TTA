@@ -1,0 +1,7 @@
+torch
+numpy
+pandas
+pillow
+tqdm
+wandb
+git+https://github.com/openai/CLIP.git
